@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1280,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://tkosportz.live:25461/live/edaniels2023/6066225419/38227.m3u8
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:C0:B7:20&stream=61459&extension=m3u8
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=11204&extension=m3u8
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=73490&extension=m3u8
